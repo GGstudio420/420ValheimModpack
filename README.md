@@ -1,9 +1,28 @@
 # 420ValheimModPack
 
 ## Description
-- Features
-- Discord Invite
-- Mod Credits
+Join our discord channel : https://discord.gg/rsRWNf4xKP
+
+# Features
+- Anti Cheat System
+- Mod Config Enforcer
+- Quick Connect
+- Custom Art
+- Custom NPCs / Raids / Pets
+- New Skills
+- New Building Structures
+- Classes
+- Custom Locations
+- Tournaments
+- PVP / SAFE / PVE zones
+- Online Character
+- Magic System
+- Valheim Plus
+- Custom Starters Gear
+- Quest System
+- Global Server Chat
+- Gathering improvement
+- Mod Credits to all the creators !!
 
 ## Depencency
 - Cartography Skill
