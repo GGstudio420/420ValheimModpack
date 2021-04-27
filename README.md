@@ -1,4 +1,4 @@
-#420ValheimModPack
+# 420ValheimModPack
 
 ## Description
 - Features
@@ -79,13 +79,11 @@
 - ExtendedItemDataFramework
 
 ## Changelog
-
 # FourTwenty-420ValheimModPack v.1.0.1
 - FloorsAreRoofs added
 - BuildCamera added 
 - AnyPortal added 
 - InstantMonsterDrop added
 - SkipSleep added
-
 # FourTwenty-420ValheimModPack v.1.0.0.
 - initial release
