@@ -1,9 +1,10 @@
+```md
 # 420ValheimModPack
-
 ## Description
-Join our discord channel : https://discord.gg/rsRWNf4xKP
+Join our discord channel : 
+coming soon...
 
-# Features
+## Features
 - Anti Cheat System
 - Mod Config Enforcer
 - Quick Connect
@@ -97,12 +98,15 @@ Join our discord channel : https://discord.gg/rsRWNf4xKP
 - EpicLoot-MCE
 - ExtendedItemDataFramework
 
-## Changelog
-# FourTwenty-420ValheimModPack v.1.0.1
-- FloorsAreRoofs added
-- BuildCamera added 
-- AnyPortal added 
-- InstantMonsterDrop added
-- SkipSleep added
-# FourTwenty-420ValheimModPack v.1.0.0.
+# Changelog
+## FourTwenty-420ValheimModPack v.1.0.1
+[+][FloorsAreRoofs added]
+[+][BuildCamera added] 
+[+][AnyPortal added]
+[+][InstantMonsterDrop added]
+[+][SkipSleep added]
+
+## FourTwenty-420ValheimModPack v.1.0.0
 - initial release
+
+```
