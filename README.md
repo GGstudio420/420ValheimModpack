@@ -1,4 +1,4 @@
-```md
+
 # 420ValheimModPack
 ## Description
 Join our discord channel : 
@@ -108,5 +108,3 @@ coming soon...
 
 ## FourTwenty-420ValheimModPack v.1.0.0
 - initial release
-
-```
