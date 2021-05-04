@@ -6,7 +6,7 @@ coming soon...
 
 ## Features
 
-| FUNCTION                     | DESCRIPTION                                                          |
+| Function                     | Description                                                          |
 |------------------------------|----------------------------------------------------------------------|
 | - Anti Cheat System          | no cheating                                                          |
 | - Mod Config Enforcer        | Syncs the config files                                               |
