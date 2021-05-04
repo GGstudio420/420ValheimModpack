@@ -2,7 +2,7 @@
 # 420ValheimModPack
 ## Description
 Join our discord channel : 
-coming soon...
+[here](https://discord.gg/a7DattG24C)
 
 ## Features
 
