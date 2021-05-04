@@ -28,20 +28,20 @@ coming soon...
 | - Gathering improvement      | AutoPickUpRange is increased and all dropped resources are increased |
 
 ## Depencency
-- Cartography Skill
-- Armorstand
-- Basement
-- BeastOfBurden
-- BetterPickupNotification
-- BetterTrader
-- BetterUI
-- BossControl
-- Brawler
-- BuildingExpansion
-- BWards
-- CharacterWhitelist
-- ColorfulSigns
-- CombatOverhaul
+Cartography Skill
+Armorstand
+Basement
+BeastOfBurden
+BetterPickupNotification
+BetterTrader
+BetterUI
+BossControl
+Brawler
+BuildingExpansion
+BWards
+CharacterWhitelist
+ColorfulSigns
+CombatOverhaul
 - CookingSkill
 - CreatureSense
 - CustomLoadingScreen
