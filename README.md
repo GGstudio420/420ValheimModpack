@@ -34,7 +34,7 @@ Join our discord channel for guides, information and just to chill with others :
 # Changelog
 
 * * * 
-## v420ModPack v.1.0.0
+## v420ModPack v.0.0.1
 - initial release
 
 
