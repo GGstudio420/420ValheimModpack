@@ -1,11 +1,14 @@
 
-# 420ValheimModPack
-## Description
-Join our discord channel : 
-[here](https://discord.gg/a7DattG24C)
+# ✨ v420ModPack ✨
 
+* * * 
+## GUIDE
+Join our discord channel for guides, information and just to chill with others : 
+
+[*DISCORD*](https://discord.gg/4BJyn3Q7gQ)
+
+* * * 
 ## Features
-
 | Function                     | Description                                                          |
 |------------------------------|----------------------------------------------------------------------|
 | - Anti Cheat System          | no cheating                                                          |
@@ -27,86 +30,13 @@ Join our discord channel :
 | - Global Server Chat         | Global chat channels                                                 |
 | - Gathering improvement      | AutoPickUpRange is increased and all dropped resources are increased |
 
-## Depencency
-Cartography Skill
-Armorstand
-Basement
-BeastOfBurden
-BetterPickupNotification
-BetterTrader
-BetterUI
-BossControl
-Brawler
-BuildingExpansion
-BWards
-CharacterWhitelist
-ColorfulSigns
-CombatOverhaul
-- CookingSkill
-- CreatureSense
-- CustomLoadingScreen
-- DeathPanalty
-- DeathPin
-- DeathTweaks
-- DiscordNotifier
-- EmoteWheel
-- EpicLoot
-- EquipmentQuickslots
-- Equipwheel
-- FarmGrid
-- FireIsHot
-- FirePoisonDelay
-- FishOverhaul
-- FitnessSkill
-- HoneyPlus
-- Jams
-- JotunnLib
-- MMOHOOK
-- ModConfigEnforcer
-- MoreGates
-- MoreSkills
-- MountUp
-- Multiverse
-- Necromancy
-- OdinPlus
-- PassiveForsaken
-- PlantingPlus
-- PlayerCompass
-- PotionsPlus
-- PVPAlwaysOn
-- QuickConnect
-- RepairMats
-- RPchat
-- RRR
-- RunicPower
-- SHowContainer
-- Skald
-- SKillInjector
-- Skyhiem
-- SnapPoint
-- SpawnThat
-- SpeedyPaths
-- TrialsOfOdin
-- TwoHandedWeapons
-- VAC
-- ValheimLegends
-- ValheimPlus
-- ValheimLib
-- ValheimPermissions
-- WagonSkill
-- WeatherMod
-- WeightlessCoins
-- BetterContinents
-- EpicLoot-MCE
-- ExtendedItemDataFramework
 
 # Changelog
-## FourTwenty-420ValheimModPack v.1.0.1
-[+][FloorsAreRoofs added]
-[+][BuildCamera added] 
-[+][AnyPortal added]
-[+][InstantMonsterDrop added]
-[+][SkipSleep added]
 
-## FourTwenty-420ValheimModPack v.1.0.0
-- initial release
+* * * 
+## v420ModPack v.1.0.0
+-
+-
+
+
+* * * 
